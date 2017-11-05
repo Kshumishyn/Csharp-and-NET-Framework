@@ -1,0 +1,29 @@
+﻿<Window x:Class="hw6project1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:hw6project1"
+        mc:Ignorable="d"
+        Title="Counter Driver" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="createCounterButton" Content="Toggle Counter" HorizontalAlignment="Left" Margin="27,34,0,0" VerticalAlignment="Top" Width="129" Click="CreateCounterButton_Click"/>
+        <Button x:Name="setCounterButton" Content="Set Counter to :" HorizontalAlignment="Left" Margin="27,81,0,0" VerticalAlignment="Top" Width="129" IsEnabled="False" Click="setCounterButton_Click"/>
+        <Button x:Name="getCounterButton" Content="Get Counter :" HorizontalAlignment="Left" Margin="27,108,0,0" VerticalAlignment="Top" Width="129" IsEnabled="False" Click="getCounterButton_Click"/>
+        <Button x:Name="incrementCounterButton" Content="Increment Counter" HorizontalAlignment="Left" Margin="27,135,0,0" VerticalAlignment="Top" Width="129" IsEnabled="False" Click="incrementCounterButton_Click"/>
+        <Button x:Name="decrementCounterButton" Content="Decrement Counter" HorizontalAlignment="Left" Margin="27,162,0,0" VerticalAlignment="Top" Width="129" IsEnabled="False" Click="decrementCounterButton_Click"/>
+        <Button x:Name="displayCounterButton" Content="Counter to Console" HorizontalAlignment="Left" Margin="27,188,0,0" VerticalAlignment="Top" Width="129" IsEnabled="False" Click="Button_Click"/>
+        <Button x:Name="equalsCounterButton" Content="Equal Counters Test" HorizontalAlignment="Left" Margin="27,215,0,0" VerticalAlignment="Top" Width="129" IsEnabled="False" Click="equalsCounterButton_Click"/>
+        <Label x:Name="counterLabel" Content="Counter: " HorizontalAlignment="Left" Margin="323,31,0,0" VerticalAlignment="Top" IsEnabled="False"/>
+        <TextBlock x:Name="emptyTextBlock" HorizontalAlignment="Left" Margin="395,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" IsEnabled="False" Text="0"/>
+        <TextBox x:Name="setCounterBox" HorizontalAlignment="Left" Height="22" Margin="177,81,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="59" IsEnabled="False"/>
+        <TextBox x:Name="getCounterBox" HorizontalAlignment="Left" Height="22" Margin="177,108,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="59" IsEnabled="False"/>
+        <TextBox x:Name="incrementBox" HorizontalAlignment="Left" Height="22" Margin="177,135,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="59" IsEnabled="False"/>
+        <TextBox x:Name="decrementBox" HorizontalAlignment="Left" Height="22" Margin="177,162,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="59" IsEnabled="False"/>
+        <TextBox x:Name="equalsBox" HorizontalAlignment="Left" Height="22" Margin="177,214,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="59" IsEnabled="False"/>
+        <TextBlock x:Name="booleanBox" HorizontalAlignment="Left" Margin="255,215,0,0" TextWrapping="Wrap" VerticalAlignment="Top" IsEnabled="False" Width="46" Height="21"/>
+        <TextBlock x:Name="decrementBoxOutput" HorizontalAlignment="Left" Margin="255,162,0,0" TextWrapping="Wrap" VerticalAlignment="Top" IsEnabled="False" Width="46" Height="22"/>
+        <TextBlock x:Name="incrementBoxOutput" HorizontalAlignment="Left" Margin="255,135,0,0" TextWrapping="Wrap" VerticalAlignment="Top" IsEnabled="False" Width="46" Height="21"/>
+
+    </Grid>
+</Window>

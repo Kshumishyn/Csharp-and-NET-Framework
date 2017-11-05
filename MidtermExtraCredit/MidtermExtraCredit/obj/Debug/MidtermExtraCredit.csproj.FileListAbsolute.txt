@@ -1,0 +1,7 @@
+C:\Users\Kostyantyn\Source\Repos\shumishynk\MidtermExtraCredit\MidtermExtraCredit\bin\Debug\MidtermExtraCredit.exe.config
+C:\Users\Kostyantyn\Source\Repos\shumishynk\MidtermExtraCredit\MidtermExtraCredit\bin\Debug\MidtermExtraCredit.exe
+C:\Users\Kostyantyn\Source\Repos\shumishynk\MidtermExtraCredit\MidtermExtraCredit\bin\Debug\MidtermExtraCredit.pdb
+C:\Users\Kostyantyn\Source\Repos\shumishynk\MidtermExtraCredit\MidtermExtraCredit\obj\Debug\MidtermExtraCredit.csprojResolveAssemblyReference.cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\MidtermExtraCredit\MidtermExtraCredit\obj\Debug\MidtermExtraCredit.csproj.CoreCompileInputs.cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\MidtermExtraCredit\MidtermExtraCredit\obj\Debug\MidtermExtraCredit.exe
+C:\Users\Kostyantyn\Source\Repos\shumishynk\MidtermExtraCredit\MidtermExtraCredit\obj\Debug\MidtermExtraCredit.pdb

@@ -1,0 +1,7 @@
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw5project1\hw5project1\bin\Debug\hw5project1.exe.config
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw5project1\hw5project1\bin\Debug\hw5project1.exe
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw5project1\hw5project1\bin\Debug\hw5project1.pdb
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw5project1\hw5project1\obj\Debug\hw5project1.csprojResolveAssemblyReference.cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw5project1\hw5project1\obj\Debug\hw5project1.csproj.CoreCompileInputs.cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw5project1\hw5project1\obj\Debug\hw5project1.exe
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw5project1\hw5project1\obj\Debug\hw5project1.pdb

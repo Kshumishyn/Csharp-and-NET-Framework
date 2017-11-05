@@ -1,0 +1,6 @@
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw5project3\hw5project3\bin\Debug\hw5project3.exe.config
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw5project3\hw5project3\bin\Debug\hw5project3.exe
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw5project3\hw5project3\bin\Debug\hw5project3.pdb
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw5project3\hw5project3\obj\Debug\hw5project3.csproj.CoreCompileInputs.cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw5project3\hw5project3\obj\Debug\hw5project3.exe
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw5project3\hw5project3\obj\Debug\hw5project3.pdb

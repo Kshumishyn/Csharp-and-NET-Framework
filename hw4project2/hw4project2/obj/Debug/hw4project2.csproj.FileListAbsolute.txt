@@ -1,0 +1,7 @@
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw4project2\hw4project2\bin\Debug\hw4project2.exe.config
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw4project2\hw4project2\bin\Debug\hw4project2.exe
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw4project2\hw4project2\bin\Debug\hw4project2.pdb
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw4project2\hw4project2\obj\Debug\hw4project2.csprojResolveAssemblyReference.cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw4project2\hw4project2\obj\Debug\hw4project2.csproj.CoreCompileInputs.cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw4project2\hw4project2\obj\Debug\hw4project2.exe
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw4project2\hw4project2\obj\Debug\hw4project2.pdb
