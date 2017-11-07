@@ -1,0 +1,15 @@
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture4lab2\lecture4lab2\bin\Debug\lecture4lab2.exe.config
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture4lab2\lecture4lab2\bin\Debug\lecture4lab2.exe
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture4lab2\lecture4lab2\bin\Debug\lecture4lab2.pdb
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture4lab2\lecture4lab2\obj\Debug\lecture4lab2.csprojResolveAssemblyReference.cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture4lab2\lecture4lab2\obj\Debug\MainWindow.g.cs
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture4lab2\lecture4lab2\obj\Debug\App.g.cs
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture4lab2\lecture4lab2\obj\Debug\lecture4lab2_MarkupCompile.cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture4lab2\lecture4lab2\obj\Debug\lecture4lab2_MarkupCompile.lref
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture4lab2\lecture4lab2\obj\Debug\MainWindow.baml
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture4lab2\lecture4lab2\obj\Debug\lecture4lab2.g.resources
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture4lab2\lecture4lab2\obj\Debug\lecture4lab2.Properties.Resources.resources
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture4lab2\lecture4lab2\obj\Debug\lecture4lab2.csproj.GenerateResource.Cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture4lab2\lecture4lab2\obj\Debug\lecture4lab2.csproj.CoreCompileInputs.cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture4lab2\lecture4lab2\obj\Debug\lecture4lab2.exe
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture4lab2\lecture4lab2\obj\Debug\lecture4lab2.pdb

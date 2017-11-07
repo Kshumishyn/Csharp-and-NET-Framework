@@ -1,0 +1,7 @@
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw9project1\hw9project1\bin\Debug\hw9project1.exe.config
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw9project1\hw9project1\bin\Debug\hw9project1.exe
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw9project1\hw9project1\bin\Debug\hw9project1.pdb
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw9project1\hw9project1\obj\Debug\hw9project1.csprojResolveAssemblyReference.cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw9project1\hw9project1\obj\Debug\hw9project1.csproj.CoreCompileInputs.cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw9project1\hw9project1\obj\Debug\hw9project1.exe
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw9project1\hw9project1\obj\Debug\hw9project1.pdb

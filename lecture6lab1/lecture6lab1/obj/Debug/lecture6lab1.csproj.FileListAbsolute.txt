@@ -1,0 +1,14 @@
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture6lab1\lecture6lab1\obj\Debug\MainWindow.g.cs
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture6lab1\lecture6lab1\obj\Debug\App.g.cs
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture6lab1\lecture6lab1\obj\Debug\lecture6lab1_MarkupCompile.cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture6lab1\lecture6lab1\obj\Debug\lecture6lab1_MarkupCompile.lref
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture6lab1\lecture6lab1\bin\Debug\lecture6lab1.exe.config
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture6lab1\lecture6lab1\bin\Debug\lecture6lab1.exe
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture6lab1\lecture6lab1\bin\Debug\lecture6lab1.pdb
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture6lab1\lecture6lab1\obj\Debug\MainWindow.baml
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture6lab1\lecture6lab1\obj\Debug\lecture6lab1.g.resources
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture6lab1\lecture6lab1\obj\Debug\lecture6lab1.Properties.Resources.resources
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture6lab1\lecture6lab1\obj\Debug\lecture6lab1.csproj.GenerateResource.Cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture6lab1\lecture6lab1\obj\Debug\lecture6lab1.csproj.CoreCompileInputs.cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture6lab1\lecture6lab1\obj\Debug\lecture6lab1.exe
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture6lab1\lecture6lab1\obj\Debug\lecture6lab1.pdb

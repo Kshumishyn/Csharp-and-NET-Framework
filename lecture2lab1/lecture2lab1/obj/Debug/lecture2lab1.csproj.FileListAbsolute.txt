@@ -1,0 +1,7 @@
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture2lab1\lecture2lab1\bin\Debug\lecture2lab1.exe.config
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture2lab1\lecture2lab1\bin\Debug\lecture2lab1.exe
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture2lab1\lecture2lab1\bin\Debug\lecture2lab1.pdb
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture2lab1\lecture2lab1\obj\Debug\lecture2lab1.csprojResolveAssemblyReference.cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture2lab1\lecture2lab1\obj\Debug\lecture2lab1.csproj.CoreCompileInputs.cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture2lab1\lecture2lab1\obj\Debug\lecture2lab1.exe
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture2lab1\lecture2lab1\obj\Debug\lecture2lab1.pdb

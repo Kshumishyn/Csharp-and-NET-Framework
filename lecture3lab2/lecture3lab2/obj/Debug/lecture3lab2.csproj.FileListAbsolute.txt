@@ -1,0 +1,6 @@
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture3lab2\lecture3lab2\bin\Debug\lecture3lab2.exe.config
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture3lab2\lecture3lab2\bin\Debug\lecture3lab2.exe
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture3lab2\lecture3lab2\bin\Debug\lecture3lab2.pdb
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture3lab2\lecture3lab2\obj\Debug\lecture3lab2.csproj.CoreCompileInputs.cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture3lab2\lecture3lab2\obj\Debug\lecture3lab2.exe
+C:\Users\Kostyantyn\Source\Repos\shumishynk\lecture3lab2\lecture3lab2\obj\Debug\lecture3lab2.pdb
