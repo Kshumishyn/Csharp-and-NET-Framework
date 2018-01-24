@@ -1,0 +1,13 @@
+2017-12-06 14:42:24,409 INFO hw14project1.DuelistDriver - BEGIN LOG
+2017-12-06 14:42:24,448 INFO hw14project1.DuelistDriver - Starting the Generic Duelist Program.
+
+2017-12-06 14:42:24,493 INFO hw14project1.DuelistDriver - Rounds to Process: 24 | 
+Number of Players: 3.
+
+2017-12-06 14:42:24,496 INFO hw14project1.DuelistDriver - Beginning Iteration of Rounds
+2017-12-06 14:42:24,509 INFO hw14project1.DuelistDriver - Successfully Carried out Rounds.
+
+2017-12-06 14:42:24,525 INFO hw14project1.DuelistDriver - Duelist Simulation has completed Successfully. 
+END LOG.
+
+

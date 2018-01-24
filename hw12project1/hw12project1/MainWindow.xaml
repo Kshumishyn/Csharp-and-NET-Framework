@@ -1,0 +1,21 @@
+﻿<Window x:Class="hw12project1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:hw12project1"
+        mc:Ignorable="d"
+        Title="Area Calculator" Height="350" Width="525">
+    <Grid Background="#FF625D5D">
+        <RadioButton x:Name="SquareRadio" Content="Square" HorizontalAlignment="Left" Margin="41,87,0,0" VerticalAlignment="Top" FontSize="20" Checked="SquareRadio_Checked"/>
+        <RadioButton x:Name="TriangleRadio" Content="45-45-90 Triangle" HorizontalAlignment="Left" Margin="41,118,0,0" VerticalAlignment="Top" FontSize="20" Checked="TriangleRadio_Checked"/>
+        <RadioButton x:Name="CircleRadio" Content="Circle" HorizontalAlignment="Left" Margin="41,149,0,0" VerticalAlignment="Top" FontSize="20" Checked="CircleRadio_Checked"/>
+        <Label Content="Calculate the Area" HorizontalAlignment="Left" Margin="41,23,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold"/>
+        <Label Content="of a(n) :" HorizontalAlignment="Left" Margin="41,46,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold"/>
+        <TextBox x:Name="entryBox" HorizontalAlignment="Left" Height="23" Margin="41,221,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Image x:Name="geoImage" HorizontalAlignment="Left" Height="200" VerticalAlignment="Top" Width="200" Margin="282,46,0,0"/>
+        <Button Content="Calculate Area" HorizontalAlignment="Left" Margin="41,260,0,0" VerticalAlignment="Top" Width="120" FontSize="14" Click="Button_Click"/>
+        <TextBlock x:Name="choiceTextLabel" HorizontalAlignment="Left" Margin="41,189,0,0" TextWrapping="Wrap" Text="Select Above" VerticalAlignment="Top" FontSize="20" FontWeight="Bold"/>
+        <TextBlock x:Name="areaLabel" HorizontalAlignment="Left" Margin="282,258,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="20" FontWeight="Bold" Width="200"/>
+    </Grid>
+</Window>

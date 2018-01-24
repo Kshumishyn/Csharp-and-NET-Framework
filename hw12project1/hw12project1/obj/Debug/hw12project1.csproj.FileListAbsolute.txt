@@ -1,0 +1,15 @@
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw12project1\hw12project1\bin\Debug\hw12project1.exe.config
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw12project1\hw12project1\bin\Debug\hw12project1.exe
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw12project1\hw12project1\bin\Debug\hw12project1.pdb
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw12project1\hw12project1\obj\Debug\hw12project1.csprojResolveAssemblyReference.cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw12project1\hw12project1\obj\Debug\MainWindow.g.cs
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw12project1\hw12project1\obj\Debug\App.g.cs
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw12project1\hw12project1\obj\Debug\hw12project1_MarkupCompile.cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw12project1\hw12project1\obj\Debug\hw12project1_MarkupCompile.lref
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw12project1\hw12project1\obj\Debug\MainWindow.baml
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw12project1\hw12project1\obj\Debug\hw12project1.g.resources
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw12project1\hw12project1\obj\Debug\hw12project1.Properties.Resources.resources
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw12project1\hw12project1\obj\Debug\hw12project1.csproj.GenerateResource.Cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw12project1\hw12project1\obj\Debug\hw12project1.csproj.CoreCompileInputs.cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw12project1\hw12project1\obj\Debug\hw12project1.exe
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw12project1\hw12project1\obj\Debug\hw12project1.pdb

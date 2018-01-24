@@ -1,0 +1,9 @@
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw14project1\hw14project1\bin\Debug\hw14project1.exe.config
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw14project1\hw14project1\bin\Debug\hw14project1.exe
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw14project1\hw14project1\bin\Debug\hw14project1.pdb
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw14project1\hw14project1\bin\Debug\log4net.dll
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw14project1\hw14project1\bin\Debug\log4net.xml
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw14project1\hw14project1\obj\Debug\hw14project1.csprojResolveAssemblyReference.cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw14project1\hw14project1\obj\Debug\hw14project1.csproj.CoreCompileInputs.cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw14project1\hw14project1\obj\Debug\hw14project1.exe
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw14project1\hw14project1\obj\Debug\hw14project1.pdb

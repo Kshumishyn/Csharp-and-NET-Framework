@@ -1,0 +1,7 @@
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw11project1\hw11project1\obj\Debug\hw11project1.csprojResolveAssemblyReference.cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw11project1\hw11project1\obj\Debug\hw11project1.csproj.CoreCompileInputs.cache
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw11project1\hw11project1\bin\Debug\hw11project1.exe.config
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw11project1\hw11project1\bin\Debug\hw11project1.exe
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw11project1\hw11project1\bin\Debug\hw11project1.pdb
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw11project1\hw11project1\obj\Debug\hw11project1.exe
+C:\Users\Kostyantyn\Source\Repos\shumishynk\hw11project1\hw11project1\obj\Debug\hw11project1.pdb

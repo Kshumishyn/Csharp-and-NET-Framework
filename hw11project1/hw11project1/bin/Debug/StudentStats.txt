@@ -1,0 +1,18 @@
+First Name | Last Name  | Test Score |
+-----------|------------|------------|
+Philip     | Rivers     |     91     |
+Tom        | Brady      |     49     |
+Sam        | Darnold    |     92     |
+Pete       | Carroll    |     87     |
+Deion      | Sanders    |     77     |
+Joe        | Montana    |     99     |
+Kostyantyn | Shumishyn  |     43     |
+Eric       | Parson     |     97     |
+Mike       | Jones      |     98     |
+Kevin      | Lewis      |    100     |
+Richard    | Mellinger  |     98     |
+Michelle   | Rousseau   |    100     |
+Lemee      | Nakamura   |     99     |
+--------------------------------------
+Average Test Score : 86.92
+Median Test Score  : 97
